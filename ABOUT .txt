@@ -1,0 +1,3 @@
+This application made by Prince George Imanuel to fullfill the requirement of Final Test Data Structure class, build using Java Programming language.
+I learn about Bubblesort, decimal to biner, insertion sort, interface, calculator, selection sort. algorithm, primary number.
+To start this application . Start from FinalTest
